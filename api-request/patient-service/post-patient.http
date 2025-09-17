@@ -3,11 +3,11 @@ POST http://localhost:4000/patients
 Content-Type: application/json
 
 {
-  "name" : "John Cena with billing account",
-  "email" : "john@1gmail.com",
-  "address" : "101 Church Street",
-  "dateOfBirth": "1996-08-20",
-  "registeredDate": "2025-11-20"
+  "id": "4dd6a0b9-01f1-4d2c-95fe-ea812ef7ac82",
+  "name": "John Cena Kafka Test",
+  "email": "kafkatest_88@example.com",
+  "address": "123 main street22",
+  "dateOfBirth": "1995-09-09",
+  "registeredDate": "2024-11-28"
 }
-
 ###
